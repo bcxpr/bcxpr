@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bcxpr
-- 👀 I’m interested in Flutter & Dart, NodeJS, SRT-LiveStreaming
+- 👋 Hi, I’m @bcxpr : AKA Martin.
+- 👀 I’m interested in Flutter & Dart, NodeJS, SRT-LiveStreaming, Linux , Live Straming Servers.
 - 🌱 I’m currently learning ReactJS, Svelte, Javascript, Python
 - 📫 How to reach me brainxpr@gmail.com
 
