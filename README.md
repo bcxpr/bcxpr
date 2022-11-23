@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter & Dart, NodeJS, SRT-LiveStreaming, Linux , Live Straming Servers.
 - 🌱 I’m currently learning ReactJS, Svelte, Javascript, Python
 - 📫 How to reach me brainxpr@gmail.com
-- Check out my work bcxpr.github.io
+- Check out my work [bcxpr.github.io](https://bcxpr.github.io/#/)
 - Whatsapp      +254716806025 
 - Call or Text  +254791426141
 
