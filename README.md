@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ReactJS, Svelte, Javascript, Python
 - 📫 How to reach me brainxpr@gmail.com
 - Check out my work [bcxpr.github.io](https://bcxpr.github.io/#/)
-- Whatsapp      +254716806025 
-- Call or Text  +254791426141
+- Whatsapp, Call or Text +254716806025
 
 <!---
 bcxpr/bcxpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
